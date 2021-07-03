@@ -39,5 +39,3 @@ Thanks for your interest!
 
 Twitter: https://twitter.com/Bennyboy_JP
 Github: https://github.com/thejourneyville
-
-bennyBoy_JP 2021

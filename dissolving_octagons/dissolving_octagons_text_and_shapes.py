@@ -4,7 +4,7 @@ import pygame
 # text rendered using blit
 def render_text(screen, current_cell_x, current_cell_y, margin_x, screen_height):
 
-    font = pygame.font.Font("./dissolving_octagons/earthorbitertitle.ttf", 15)
+    font = pygame.font.Font("./earthorbitertitle.ttf", 15)
 
     text_surface_x = font.render(str(current_cell_x), True, (50, 50, 50))
     text_rect_x = text_surface_x.get_rect()

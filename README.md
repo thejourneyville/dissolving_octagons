@@ -1,5 +1,8 @@
 <h1>DISSOLVING OCTAGONS WITH PYGAME</h1>
 
+![dissolving_octogons_visualization1](https://user-images.githubusercontent.com/86641253/166406078-a060db8f-164a-4bf2-a689-967ed7dc5c87.png)
+
+![dissolving_octogons_visualization](https://user-images.githubusercontent.com/86641253/166406081-c7db0dac-bd6a-4884-ab9e-bb46537b65b6.png)
 EXPLANATION:
 A grid of octagons (pygame's draw.polygon function) which detects the
 X/Y axis of the user's mouse and fills in the octagon with solid color.
